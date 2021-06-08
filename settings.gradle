@@ -1,0 +1,2 @@
+rootProject.name = "PhotosApp"
+include ':app'
